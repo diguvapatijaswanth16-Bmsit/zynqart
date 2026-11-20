@@ -1,0 +1,10 @@
+node_modules
+dist
+worker-dist
+.wrangler
+*.log
+*.tsbuildinfo
+.dev.vars
+.env
+/freebuff-sites-build/
+/sites-build/
